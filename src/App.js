@@ -2,7 +2,7 @@
 function App() {
   return (
     <h1>
-      geeks for geeks automated
+      This is my first react application for learning.
     </h1>
   );
 }
